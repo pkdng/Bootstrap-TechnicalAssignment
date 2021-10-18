@@ -1,0 +1,14 @@
+1.  Apa itu CSS Framework?
+    => merupakan library yang berisi sekumpulan kode CSS siap pakai
+       seperti sistem grid, tombol, dan lain-lain sehingga dapat memudahkan
+       proses mendesain web atau aplikasi
+
+2.  Apakah bootstrap satu-satunya CSS Framework yang dapat kita gunakan?
+    => tidak
+
+3.  Sebutkan beberapa CSS Framework selain Bootstrap
+    => tailwind, skeleton, UIKit, bulma
+
+4.  Bagaimana tata cara penggunaan Bootstrap?
+    => menghubungkan bootstrap dengan proyek kita yang bisa dilakukan dengan dua cara
+       yaitu online (menggunakan CDN) dan offline (download secara manual)
